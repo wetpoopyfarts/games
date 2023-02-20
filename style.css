@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#cursol
+{
+    background-color:#d3d6de;
+}
+#cursol img{
+    height: 300px;
+    margin-top: 30px;
+}
+
+
